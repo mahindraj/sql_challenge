@@ -1,4 +1,5 @@
---Objective--
+Objective
+
 The research conducted consists of desgning the tables in reference to the CSV files, import the CSvs into a SQL database and to conduct a data analysis of the following:
 
 1. List the employee number, last name, first name, sex, and salary of each employee.
